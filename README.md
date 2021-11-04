@@ -1,8 +1,6 @@
 # Auther
 > *AdhamAlomari*
 
-## This app is deploy in Netlify => [Netlify Angular]()
-
 
 ![Angular Run](img/AngularProject.PNG)
 
