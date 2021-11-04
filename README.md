@@ -1,3 +1,13 @@
+# Auther
+> *AdhamAlomari*
+
+## This app is deploy in Netlify => [Netlify Angular]()
+
+
+![Angular Run](img/AngularProject.PNG)
+
+
+
 # Emptyapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
